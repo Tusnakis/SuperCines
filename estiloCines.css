@@ -1,0 +1,14 @@
+html 
+{
+    min-height: 100%;
+}
+
+body
+{
+	background:-webkit-linear-gradient(bottom,darkblue,white);
+}
+
+h2,h3
+{
+	margin:0px;
+}
